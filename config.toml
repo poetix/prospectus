@@ -1,0 +1,25 @@
+baseURL = 'http://dominicfox.com/'
+languageCode = 'en-us'
+title = 'Dominic Fox'
+theme = "LoveIt"
+
+[params.home.profile]
+title = 'Dominic Fox'
+subtitle = 'Dominic is a writer and software developer living in London, UK'
+typeit = false
+
+[params.header.title]
+name = "Dominic Fox"
+
+[params.footer]
+hugo = false
+
+[params.social]
+twitter = "dynamic_proxy"
+
+[menu]
+  [[menu.main]]
+  weight = 1
+  identifier = "publications"
+  name = "publications"
+  url = "/publications"
