@@ -5,7 +5,7 @@ theme = "LoveIt"
 
 [params.home.profile]
 title = 'Dominic Fox'
-subtitle = 'Dominic is a writer and software developer living in London, UK'
+subtitle = 'Dominic is a writer, musician, and software developer living in London, UK'
 typeit = false
 
 [params.header.title]
@@ -23,3 +23,9 @@ twitter = "dynamic_proxy"
   identifier = "publications"
   name = "publications"
   url = "/publications"
+
+  [[menu.main]]
+  weight = 1
+  identifier = "music"
+  name = "music"
+  url = "/music"
