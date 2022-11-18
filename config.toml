@@ -1,4 +1,4 @@
-baseURL = 'http://dominicfox.com/'
+baseURL = 'https://dominicfox.com/'
 languageCode = 'en-us'
 title = 'Dominic Fox'
 theme = "LoveIt"
@@ -16,6 +16,9 @@ hugo = false
 
 [params.social]
 twitter = "dynamic_proxy"
+facebook = "reynardine"
+instagram = "codepoetics"
+github = "poetix"
 
 [menu]
   [[menu.main]]
