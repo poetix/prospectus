@@ -23,6 +23,12 @@ github = "poetix"
 [menu]
   [[menu.main]]
   weight = 1
+  identifier = "vulpuslabs"
+  name = "vulpus labs"
+  url = "/vulpuslabs"
+
+  [[menu.main]]
+  weight = 1
   identifier = "publications"
   name = "publications"
   url = "/publications"
