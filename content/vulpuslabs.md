@@ -8,15 +8,12 @@ Vulpus Labs make music software.
 
 Initial releases will be [Voltage Modular](https://cherryaudio.com/products/voltage-modular) plugins, beginning with the forthcoming...
 
-# Cross Fade Grid
+# Scapegrace
 
-{{< figure src="/media/crossfadegrid.png" title="Cross Fade Grid" >}}
+Scapegrace is a randomising stereo delay effect module for Voltage Modular. It maintains a rolling 16-second memory of its input, and when triggered selects a random slice of that memory to replay.
 
-The basic premise is that you have four inputs (each with its own patchable volume control), and one output, and an eight-step sequencer grid that you can use to select which input is sent to the output at each step. When switching between inputs, a smooth (sigmoid curve) crossfade is applied, of controllable length. The stepping of the sequencer is driven by an external clock (something that fires BPM-controlled triggers, or just an LFO).
+Up to 16 slices can be replaying simultaneously, and the replays can be fed back into the memory buffer. Each replay slice is faded in and out with a controllable fade length, and can be randomly panned within a controllable stereo width.
 
-Uses:
-* _Trance Gapper_ - route the same source into multiple inputs, adjusting or modulating the volume of each, and use the grid to produce rhythmically patterned volume modulation effects
-* _Rhythmic modulation_ - route the same input source into multiple effects signal chains, and use the grid to switch rhythmically between them, e.g. alternating between a clean and a distorted or filtered signal.
-* _Source interleaving_ - interleave multiple input sources, e.g. a guitar and a sequenced synth pattern, or oscillator tones tuned to different pitches for an arpeggiation effect with timbral variation.
+The length of each replay slice is also randomised, within a controllable range. A slight pitch change can be randomly applied to each replay, also within a controllable range of up to plus or minus half a semitone. Finally, slices can be replayed at double speed, or in reverse, either all the time, none of the time, or randomly.
 
-Beta testing is currently open, so [hit me up](mailto:dominic.fox@gmail.com) if you want to try it.
+[Read the manual](media/scapegrace_manual.pdf)
