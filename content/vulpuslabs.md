@@ -16,4 +16,4 @@ Up to 16 slices can be replaying simultaneously, and the replays can be fed back
 
 The length of each replay slice is also randomised, within a controllable range. A slight pitch change can be randomly applied to each replay, also within a controllable range of up to plus or minus half a semitone. Finally, slices can be replayed at double speed, or in reverse, either all the time, none of the time, or randomly.
 
-[Read the manual](media/scapegrace_manual.pdf)
+[Read the manual](/media/scapegrace_manual.pdf)
