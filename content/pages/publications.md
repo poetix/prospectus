@@ -3,6 +3,18 @@ title: "Publications"
 date: 2022-10-19T23:54:55+01:00
 draft: false
 ---
+# 2025
+
+* [Leonard Rossiter's Ontology of Grot](https://tribunemag.co.uk/2025/01/leonard-rossiters-ontology-of-grot-sit-coms_ - review of Code: Damp (Repeater, 2024) by Sophie Sleigh-Johnston, for Tribune.
+
+# 2024
+
+* [The Devil and Dennis Potter](https://jacobin.com/2024/06/dennis-potter-playwright-brimstone-treacle/) - article on Dennis Potter's Brimstone and Treacle, for Jacobin.
+
+# 2023
+
+Fallow.
+
 # 2022
 * [Just Think About The Average](http://review31.co.uk/essay/view/112/just-think-about-the-average) - review of The Case Against The Sexual Revolution (Polity, 2022) by Louise Perry, for Review31.
 
